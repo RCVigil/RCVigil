@@ -1,21 +1,85 @@
-<h1 align="center">Olá, sou Rodrigo Cuervo 👋</h1>
+## Olá, sou Rodrigo Cuervo. Estudante e Desenvolvedor Web!
 
-https://github.com/RCVigil?style=plastic&logo=appveyor
+ <div style="flex-direction: row; color: rgb(255, 196, 0);" align="center" justify-content= "space-around">
+  <a href="https://github.com/RCVigil">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RCVigil&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RCVigil&layout=compact&langs_count=7&theme=dark"/>
+</div>
+<!-- <div style="display: inline_block; text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="50px" width="50px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="50px" width="50px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50px" width="40px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="50px" width="50px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50px" width="50px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="50px" width="50px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50px" width="50px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="50px" width="50px" />
+</div> -->
 
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>JavaScript</title><path d="M0 0h24v24H0V0zm22.034 18.276c-.175-1.095-.888-2.015-3.003-2.873-.736-.345-1.554-.585-1.797-1.14-.091-.33-.105-.51-.046-.705.15-.646.915-.84 1.515-.66.39.12.75.42.976.9 1.034-.676 1.034-.676 1.755-1.125-.27-.42-.404-.601-.586-.78-.63-.705-1.469-1.065-2.834-1.034l-.705.089c-.676.165-1.32.525-1.71 1.005-1.14 1.291-.811 3.541.569 4.471 1.365 1.02 3.361 1.244 3.616 2.205.24 1.17-.87 1.545-1.966 1.41-.811-.18-1.26-.586-1.755-1.336l-1.83 1.051c.21.48.45.689.81 1.109 1.74 1.756 6.09 1.666 6.871-1.004.029-.09.24-.705.074-1.65l.046.067zm-8.983-7.245h-2.248c0 1.938-.009 3.864-.009 5.805 0 1.232.063 2.363-.138 2.711-.33.689-1.18.601-1.566.48-.396-.196-.597-.466-.83-.855-.063-.105-.11-.196-.127-.196l-1.825 1.125c.305.63.75 1.172 1.324 1.517.855.51 2.004.675 3.207.405.783-.226 1.458-.691 1.811-1.411.51-.93.402-2.07.397-3.346.012-2.054 0-4.109 0-6.179l.004-.056z"/></svg>
+##
 
-<!--
-**RCVigil/RCVigil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table width="320px" align="center">
+    <tbody style=background="#fafbfc"; textColor="#091E42">
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>Javascript</strong></span><br>
+            <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/85fe5c1ea414287d8a9bc8eb336b53dc79a21a3352d9b5e26fc1c31c4aac6e01/68747470733a2f2f75706c6f61642e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a6176617363726970742f696d616765732f32333965633861342d313633652d343739322d383362362d3366366439363931313735372e737667"><img height="50px" style=backgroundColor="#fafbfc" src="https://camo.githubusercontent.com/85fe5c1ea414287d8a9bc8eb336b53dc79a21a3352d9b5e26fc1c31c4aac6e01/68747470733a2f2f75706c6f61642e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a6176617363726970742f696d616765732f32333965633861342d313633652d343739322d383362362d3366366439363931313735372e737667" data-canonical-src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" style="max-width: 100%;"></a>
+            </td>
+            <td width="80px" align="center">
+            <span><strong>HTML</strong></span><br>
+            <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/da7acacadecf91d6dc02efcd2be086bb6d78ddff19a1b7a0ab2755a6fda8b1e9/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667"><img height="50" src="https://camo.githubusercontent.com/da7acacadecf91d6dc02efcd2be086bb6d78ddff19a1b7a0ab2755a6fda8b1e9/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="max-width: 100%;"></a>
+            </td>
+            <td width="80px" align="center">
+            <span><strong>CSS</strong></span><br>
+            <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2e496d4bfc6f753ddca87b521ce95c88219f77800212ffa6d4401ad368c82170/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d6f726967696e616c2e737667"><img height="50px" src="https://camo.githubusercontent.com/2e496d4bfc6f753ddca87b521ce95c88219f77800212ffa6d4401ad368c82170/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="max-width: 100%;"></a>
+            </td>
+            <td width="80px" align="center">
+            <span><strong>React</strong></span><br>
+            <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/27d0b117da00485c56d69aef0fa310a3f8a07abecc8aa15fa38c8b78526c60ac/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667"><img height="50px" src="https://camo.githubusercontent.com/27d0b117da00485c56d69aef0fa310a3f8a07abecc8aa15fa38c8b78526c60ac/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="max-width: 100%;"></a>
+            </td>
+            <td width="80px" align="center">
+            <span><strong>RTL</strong></span><br>
+            <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/aa85cea585880ae694b4fe8dde116d092b8907d6351c71fcd76f00f7586fad72/68747470733a2f2f74657374696e672d6c6962726172792e636f6d2f696d672f6f63746f7075732d313238783132382e706e67"><img height="50" src="https://camo.githubusercontent.com/aa85cea585880ae694b4fe8dde116d092b8907d6351c71fcd76f00f7586fad72/68747470733a2f2f74657374696e672d6c6962726172792e636f6d2f696d672f6f63746f7075732d313238783132382e706e67" data-canonical-src="https://testing-library.com/img/octopus-128x128.png" style="max-width: 100%;"></a>
+            </td>
+            <td width="80px" align="center">
+            <span><strong>git</strong></span><br>
+            <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ddd323c6c51fbc9a81fcbb60fe25a588ab59fdd6567b7e827f4d2d5c4e09f6a1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d706c61696e2e737667"><img height="50px" src="https://camo.githubusercontent.com/ddd323c6c51fbc9a81fcbb60fe25a588ab59fdd6567b7e827f4d2d5c4e09f6a1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d706c61696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" style="max-width: 100%;"></a>
+            </td>
+            <td width="80px" align="center">
+            <span><strong>GitHub</strong></span><br>
+            <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6c8e86dfc77346d4388b8e064db73017a210f18e2cd18e74779ea34f2d630f4a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769746875622f6769746875622d6f726967696e616c2e737667"><img height="50px" style=backgroundColor="#fafbfc" src="https://camo.githubusercontent.com/6c8e86dfc77346d4388b8e064db73017a210f18e2cd18e74779ea34f2d630f4a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769746875622f6769746875622d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="max-width: 100%;"></a>
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Node</strong></span><br>
+            <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/288cace72126df58aaeaa75627898785885858d54b03cb15ea3353a515642204/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6e6f64656a732f6e6f64656a732d69636f6e2e737667"><img height="50px" src="https://camo.githubusercontent.com/288cace72126df58aaeaa75627898785885858d54b03cb15ea3353a515642204/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6e6f64656a732f6e6f64656a732d69636f6e2e737667" data-canonical-src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" style="max-width: 100%;"></a>
+            </td><td width="80px" align="center">
+            <span><strong>Jest</strong></span><br>
+            <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ce0a32825268b09cd5e0fc7c2a09c587a708491427cb794cade8f1866f7284c6/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a6573746a73696f2f6a6573746a73696f2d69636f6e2e737667"><img height="50px" src="https://camo.githubusercontent.com/ce0a32825268b09cd5e0fc7c2a09c587a708491427cb794cade8f1866f7284c6/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a6573746a73696f2f6a6573746a73696f2d69636f6e2e737667" data-canonical-src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" style="max-width: 100%;"></a>
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Redux</strong></span><br>
+            <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7b7f04b16cc2d2d4a32985710e4d640985337a32bbb1e60cdacede2c8a4ae57b/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f72656475782e737667"><img height="50px" src="https://camo.githubusercontent.com/7b7f04b16cc2d2d4a32985710e4d640985337a32bbb1e60cdacede2c8a4ae57b/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f72656475782e737667" data-canonical-src="https://cdn.worldvectorlogo.com/logos/redux.svg" style="max-width: 100%;"></a>
+            </td>
+            <td width="80px" align="center">
+            <span><strong>ESLint</strong></span><br>
+            <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8ba0fdaf8e9ed09666decdff3cd38f0aa840bb98b594872cbd14b90caef7069c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f65736c696e742f65736c696e742d69636f6e2e737667"><img height="50px" src="https://camo.githubusercontent.com/8ba0fdaf8e9ed09666decdff3cd38f0aa840bb98b594872cbd14b90caef7069c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f65736c696e742f65736c696e742d69636f6e2e737667" data-canonical-src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg" style="max-width: 100%;"></a>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
-Here are some ideas to get you started:
+  
+  ##
+ 
+<div> 
+ 	<a href = "mailto:rodrigo_vigil@yahoo.com.br">
+      <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/rodrigocvigil/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Este é meu Portfólio comecei minha vida DEV a partir de março de 2022
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=RCVigil&theme=github&count_private=true" target="_blank"> -->
+
+###  ==> <a align = "center" href="https://github.com/RCVigil/RCVigil.github.io">Meu portfólio</a> <==
