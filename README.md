@@ -1,4 +1,5 @@
-## Olá, sou Rodrigo Cuervo. Estudante e Desenvolvedor Web!
+# Olá, sou Rodrigo Cuervo.
+### Estudante Web! Estes são alguns de meus projetos
 
  <div style="flex-direction: row; color: rgb(255, 196, 0);" align="center" justify-content= "space-around">
   <a href="https://github.com/RCVigil">
