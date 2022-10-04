@@ -17,9 +17,9 @@
 <br />
 <br />
 
- <div style="display: flex, flex-direction: row, color: rgb(255, 196, 0), " align="center" justify-content= "space-around" backgroundColor= "white">
- <img height="170em" src= "https://github-readme-stats.vercel.app/api?username=RCVigil" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RCVigil&layout=compact&langs_count=7&theme=white"/>
+<div style="display: flex, flex-direction: row, color: rgb(255, 196, 0), " align="center" justify-content= "space-around" backgroundColor= "white">
+  <img height="170em" src= "https://github-readme-stats.vercel.app/api?username=RCVigil" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RCVigil&layout=compact&langs_count=7&theme=white" />
 </div>
 
 ##
