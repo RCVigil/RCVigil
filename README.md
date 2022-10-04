@@ -2,20 +2,9 @@
 ### Estudante Web! Estes são alguns de meus projetos
 
  <div style="flex-direction: row; color: rgb(255, 196, 0);" align="center" justify-content= "space-around">
-  <a href="https://github.com/RCVigil">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RCVigil&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RCVigil&layout=compact&langs_count=7&theme=dark"/>
+ <img height="170em" src= "https://github-readme-stats.vercel.app/api?username=RCVigil" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RCVigil&layout=compact&langs_count=7&theme=white"/>
 </div>
-<!-- <div style="display: inline_block; text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="50px" width="50px" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="50px" width="50px" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50px" width="40px" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="50px" width="50px" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50px" width="50px" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="50px" width="50px" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50px" width="50px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="50px" width="50px" />
-</div> -->
 
 ##
 
@@ -48,7 +37,7 @@
             </td>
             <td width="80px" align="center">
             <span><strong>GitHub</strong></span><br>
-            <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6c8e86dfc77346d4388b8e064db73017a210f18e2cd18e74779ea34f2d630f4a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769746875622f6769746875622d6f726967696e616c2e737667"><img height="50px" style=backgroundColor="#fafbfc" src="https://camo.githubusercontent.com/6c8e86dfc77346d4388b8e064db73017a210f18e2cd18e74779ea34f2d630f4a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769746875622f6769746875622d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="max-width: 100%;"></a>
+            <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6c8e86dfc77346d4388b8e064db73017a210f18e2cd18e74779ea34f2d630f4a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769746875622f6769746875622d6f726967696e616c2e737667"><img height="50px" style=backgroundColor="#fafbfc" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="max-width: 100%;"></a>
             </td>
             <td width="80px" align="center">
             <span><strong>Node</strong></span><br>
@@ -61,10 +50,6 @@
             <span><strong>Redux</strong></span><br>
             <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7b7f04b16cc2d2d4a32985710e4d640985337a32bbb1e60cdacede2c8a4ae57b/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f72656475782e737667"><img height="50px" src="https://camo.githubusercontent.com/7b7f04b16cc2d2d4a32985710e4d640985337a32bbb1e60cdacede2c8a4ae57b/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f72656475782e737667" data-canonical-src="https://cdn.worldvectorlogo.com/logos/redux.svg" style="max-width: 100%;"></a>
             </td>
-            <td width="80px" align="center">
-            <span><strong>ESLint</strong></span><br>
-            <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8ba0fdaf8e9ed09666decdff3cd38f0aa840bb98b594872cbd14b90caef7069c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f65736c696e742f65736c696e742d69636f6e2e737667"><img height="50px" src="https://camo.githubusercontent.com/8ba0fdaf8e9ed09666decdff3cd38f0aa840bb98b594872cbd14b90caef7069c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f65736c696e742f65736c696e742d69636f6e2e737667" data-canonical-src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg" style="max-width: 100%;"></a>
-            </td>
         </tr>
     </tbody>
 </table>
@@ -72,15 +57,38 @@
   
   ##
  
-<div> 
+ <div width="520px" align="center">
+  <h3>Algumas tecnologias estudadas:</h3>
+  <img src= "https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /> 
+  <img src= "https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /> 
+  <img src= "https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /> 
+  <img src= "https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
+  <img src= "https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" />
+  <img src= "https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white" />
+  <img src= "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> 
+  
+ </div>
+ 
+ ##
+ 
+<div align="center"> 
  	<a href = "mailto:rodrigo_vigil@yahoo.com.br">
       <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   <a href="https://www.linkedin.com/in/rodrigocvigil/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
+ <a href = "https://discord.com/channels/Rodrigo Cuervo#4004" target="_blank">
+  <img src= "https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"> 
+ </a>
+ <a href = "https://twitter.com/RodrigoCvigil" target="_blank">
+  <img src= "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"> 
+ </a>
 </div>
 
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=RCVigil&theme=github&count_private=true" target="_blank"> -->
 
 ###  ==> <a align = "center" href="https://github.com/RCVigil/RCVigil.github.io">Meu portfólio</a> <==
+<div align="center">
+ <img src= "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RCVigil&theme=vue"/>
+</div>
