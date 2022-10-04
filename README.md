@@ -1,7 +1,11 @@
-# Olá, sou Rodrigo Cuervo.
-### Estudante Web! Estes são alguns de meus <a href= "https://github.com/RCVigil?tab=repositories" target="_blank">projetos</a>
+# Olá, sou <strong>_Rodrigo Cuervo_</strong>.
 
- <div style="flex-direction: row; color: rgb(255, 196, 0);" align="center" justify-content= "space-around">
+### Sou um DEV Front-end! Futuro desenvolvedor Full Stack, estes são alguns de meus <a href= "https://github.com/RCVigil?tab=repositories" target="_blank">_projetos_</a>
+
+<br />
+<br />
+
+ <div style="flex-direction: row; color: rgb(255, 196, 0);" align="center" justify-content= "space-around" backgroundColor= "white">
  <img height="170em" src= "https://github-readme-stats.vercel.app/api?username=RCVigil" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RCVigil&layout=compact&langs_count=7&theme=white"/>
 </div>
@@ -58,7 +62,11 @@
   ##
  
  <div width="520px" align="center">
+ 
   <h3>Algumas tecnologias estudadas:</h3>
+  
+  <br/>
+  
   <img src= "https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /> 
   <img src= "https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /> 
   <img src= "https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /> 
@@ -70,6 +78,8 @@
  </div>
  
  ##
+ 
+ <br/>
  
 <div align="center"> 
  	<a href = "mailto:rodrigo_vigil@yahoo.com.br">
