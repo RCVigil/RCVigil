@@ -1,10 +1,10 @@
 <br/>
 
 <div display:"flex" flex-direction: row justify-content:space-around>
-  
-<h1 font-sie:6rem>Olá, sou <strong>Rodrigo Cuervo</strong>.</h1>
 
-==> <a align:right font-sie="6rem" href="https://portifolio-five-red.vercel.app/" target="_blank">Meu portfólio</a> <==
+# <a align:right font-sie:6rem href="https://portifolio-five-red.vercel.app/" target="_blank">Meu portfólio</a>
+
+### Olá, sou <strong>Rodrigo Cuervo</strong>, seja muito bem vindo(a) ao meu GitHub.
 
 </div>
 <br/>
