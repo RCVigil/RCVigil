@@ -2,7 +2,7 @@
 
 <div display:"flex" flex-direction: row justify-content:space-around>
 
-# <a align:right font-sie:6rem href="https://portifolio-five-red.vercel.app/" target="_blank">Meu portfólio é só clicar aqui! &#128588; </a>
+# <a align:right font-sie:6rem href="https://portifolio-five-red.vercel.app/" target=_blank>Meu portfólio é só clicar aqui! &#128588; </a>
 
 ### Olá, sou <strong>Rodrigo Cuervo</strong>, seja muito bem vindo(a) ao meu GitHub.
 
