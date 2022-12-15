@@ -4,7 +4,7 @@
   
 <h1 font-sie:6rem>Olá, sou <strong>Rodrigo Cuervo</strong>.</h1>
 
-==> <a align:right font-sie:6rem href="https://portifolio-five-red.vercel.app/">Meu portfólio</a> <==
+==> <a align:right font-sie="6rem" target="_blank" href="https://portifolio-five-red.vercel.app/">Meu portfólio</a> <==
 
 </div>
 <br/>
