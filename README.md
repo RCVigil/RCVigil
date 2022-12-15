@@ -1,7 +1,12 @@
 <br/>
 
-<h1 height="50px">Olá, sou <strong>Rodrigo Cuervo</strong>.</h1>
+<div display:"flex" flex-direction: row justify-content:space-around>
+  
+<h1 font-sie:6rem>Olá, sou <strong>Rodrigo Cuervo</strong>.</h1>
 
+==> <a align:right font-sie:6rem href="https://portifolio-five-red.vercel.app/">Meu portfólio</a> <==
+
+</div>
 <br/>
 
 <div display= "flex" align="center" justify-content= "space-around">
@@ -118,8 +123,6 @@
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=RCVigil&theme=github&count_private=true" target="_blank"> -->
 
 <br/>
-
-###  ==> <a align = "center" href="https://portifolio-five-red.vercel.app/">Meu portfólio</a> <==
 
 <br/>
 
