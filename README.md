@@ -4,7 +4,7 @@
 
 # <a align:right font-sie:6rem href="https://portifolio-five-red.vercel.app/" target=_blank>Meu portfólio é só clicar aqui! &#128588; </a>
 
-# <a align:right font-sie:6rem href="https://www.linkedin.com/in/rodrigocvigil/" target=_blank>Meu Linkedin é só clicar aqui! </a>
+# <a align:right font-sie:6rem href="https://www.linkedin.com/in/rodrigocvigil/" target="_blank">Meu Linkedin é só clicar aqui! </a>
 
 ### Olá, sou <strong>Rodrigo Cuervo</strong>, seja muito bem vindo(a) ao meu GitHub.
 
