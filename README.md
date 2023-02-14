@@ -2,7 +2,7 @@
 
 <div display:"flex" flex-direction: row justify-content:space-around>
 
-# <link [Meu portfólio](https://portfolio-cuervo.vercel.app/){:target="_blank"} >clique aqui &#128588; </link>
+# clique em [Meu portfólio](https://portfolio-cuervo.vercel.app/){:target="_blank"}
 
 # Meu Linkedin - <a style = "align:right font-size:6rem" href="https://www.linkedin.com/in/rodrigocvigil/" target="_blank">clique aqui </a>
 
