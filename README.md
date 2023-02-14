@@ -2,9 +2,9 @@
 
 <div display:"flex" flex-direction: row justify-content:space-around>
 
-# Meu portfólio - <a align:right font-size:6rem href="https://portfolio-cuervo.vercel.app/"{:target="_blank"} >clique aqui &#128588; </a>
+# Meu portfólio - <a {align:right font-size:6rem} href="https://portfolio-cuervo.vercel.app/"{:target="_blank"} >clique aqui &#128588; </a>
 
-# Meu Linkedin - <a style = "align:right font-size:6rem" href="https://www.linkedin.com/in/rodrigocvigil/":target="_blank">clique aqui </a>
+# Meu Linkedin - <a style = "align:right font-size:6rem" href="https://www.linkedin.com/in/rodrigocvigil/" target="_blank">clique aqui </a>
 
 ### Olá, sou <strong>Rodrigo Cuervo</strong>, seja muito bem vindo(a) ao meu GitHub.
 
