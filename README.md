@@ -1,51 +1,84 @@
-<link rel="stylesheet" type="text/css" href="styles.css">
+<link rel="stylesheet" type="text/css" href="styles.css"
+>
 
-<br/>
+<br
+/>
 
-<div class='divHeaderMD' display:"flex" flex-direction: row justify-content:space-around>
+<div class='divHeaderMD' style="display: flex; flex-direction: column; justify-content: space-around;"
+>
 
 # clique em [Meu portfólio](https://portfolio-cuervo.vercel.app/)
 
-# Meu Linkedin - <a style = "align:right font-size:6rem" href="https://www.linkedin.com/in/rodrigocvigil/" target="_blank">clique aqui </a>
+# Meu Linkedin - [clique aqui]('https://www.linkedin.com/in/rodrigocvigil/')
 
-### Olá, sou <span>Rodrigo Cuervo</span>, seja muito bem vindo(a) ao meu GitHub
-
-</div>
-<br/>
-
-<div display= "flex" align="center" justify-content= "space-around">
-
-  <img src= "https://github-profile-trophy.vercel.app/?username=RCVigil" />
+## Olá, sou **Rodrigo Cuervo**, seja muito bem vindo(a) ao meu GitHub
 
 </div>
+<br
+/>
 
-<br/>
+<div display= "flex" align="center" justify-content= "space-around"
+>
 
-### Sou DEV Front-end! Futuro desenvolvedor Full Stack, estes são alguns de meus <a target="_blank" rel="noopener noreferrer" href= "https://github.com/RCVigil?tab=repositories">_projetos_</a>
+  <img src= "https://github-profile-trophy.vercel.app/?username=RCVigil"
+  />
 
-<br />
-<br />
+</div
+>
 
-<div style="display: flex, flex-direction: row, color: rgb(255, 196, 0), " align="center" justify-content= "space-around" backgroundColor= "white">
-  <img height="170em" src= "https://github-readme-stats.vercel.app/api?username=RCVigil" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RCVigil&layout=compact&langs_count=7&theme=white" />
+<br
+/>
+
+### Sou Desenvolvedor FullStack! Trabalho atualmente na Muucert Certificação Biométrica Ltda. Estes são alguns de meus particulares [_projetos_]("https://github.com/RCVigil?tab=repositories")
+
+<br
+/>
+
+<br
+/>
+
+<hr
+/>
+
+<div style="display: flex, flex-direction: row, color: rgb(255, 196, 0), " align="center" justify-content= "space-around" backgroundColor= "white"
+>
+  <img height="170em" src= "https://github-readme-stats.vercel.app/api?username=RCVigil"
+  />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RCVigil&layout=compact&langs_count=7&theme=white"
+  />
 </div>
 
-##
+<hr
+/>
 
-<br/>
+<br
+/>
 
-<table width="320px" align="center">
-  <h3> Qualquer dúvida, em relação à <strong>tecnologia</strong> é só clicar no nome, que você será redirecionado ao site Oficial </h3>
-    <tbody style=background="#fafbfc"; textColor="#091E42">
-        <tr valign="top">
-            <td width="80px" align="center">
-            <br>
-            <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/85fe5c1ea414287d8a9bc8eb336b53dc79a21a3352d9b5e26fc1c31c4aac6e01/68747470733a2f2f75706c6f61642e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a6176617363726970742f696d616765732f32333965633861342d313633652d343739322d383362362d3366366439363931313735372e737667"><img height="50px" style=backgroundColor="#fafbfc" src="https://camo.githubusercontent.com/85fe5c1ea414287d8a9bc8eb336b53dc79a21a3352d9b5e26fc1c31c4aac6e01/68747470733a2f2f75706c6f61642e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a6176617363726970742f696d616765732f32333965633861342d313633652d343739322d383362362d3366366439363931313735372e737667" data-canonical-src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" style="max-width: 100%;"> <a target="_blank" rel="noopener noreferrer" href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><strong>Javascript</strong></a> </a>
+<table width="320px" align="center"
+>
+  <h3
+  > Qualquer dúvida, em relação à <strong>tecnologia</strong> é só clicar no nome, que você será redirecionado ao site Oficial </h3>
+    <tbody style=background="#fafbfc"; textColor="#091E42"
+    >
+        <tr valign="top"
+        >
+            <td width="80px" align="center"
+            >
+            <br
+            >
+            <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/85fe5c1ea414287d8a9bc8eb336b53dc79a21a3352d9b5e26fc1c31c4aac6e01/68747470733a2f2f75706c6f61642e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a6176617363726970742f696d616765732f32333965633861342d313633652d343739322d383362362d3366366439363931313735372e737667"
+            ><img height="50px" style=backgroundColor="#fafbfc" src="https://camo.githubusercontent.com/85fe5c1ea414287d8a9bc8eb336b53dc79a21a3352d9b5e26fc1c31c4aac6e01/68747470733a2f2f75706c6f61642e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a6176617363726970742f696d616765732f32333965633861342d313633652d343739322d383362362d3366366439363931313735372e737667" data-canonical-src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" style="max-width: 100%;"
+            > <a target="_blank" rel="noopener noreferrer" href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"
+            ><strong>Javascript</strong></a> </a>
             </td>
-            <td width="80px" align="center">
-            <br>
-            <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/da7acacadecf91d6dc02efcd2be086bb6d78ddff19a1b7a0ab2755a6fda8b1e9/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667"><img height="50" src="https://camo.githubusercontent.com/da7acacadecf91d6dc02efcd2be086bb6d78ddff19a1b7a0ab2755a6fda8b1e9/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="max-width: 100%;"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><strong>HTML</strong></a> </a>
+            <td width="80px" align="center"
+            >
+            <br
+            >
+            <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/da7acacadecf91d6dc02efcd2be086bb6d78ddff19a1b7a0ab2755a6fda8b1e9/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667"
+            ><img height="50" src="https://camo.githubusercontent.com/da7acacadecf91d6dc02efcd2be086bb6d78ddff19a1b7a0ab2755a6fda8b1e9/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="max-width: 100%;"
+            > <a target="_blank" rel="noopener noreferrer nofollow" href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"
+            ><strong>HTML</strong></a> </a>
             </td>
             <td width="80px" align="center">
             <br>
