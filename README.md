@@ -2,7 +2,7 @@
 
 <br/>
 
-<div class='divHeaderMD'>
+<div class='divHeaderMD' display:"flex" flex-direction: row justify-content:space-around>
 
 # clique em [Meu portfólio](https://portfolio-cuervo.vercel.app/)
 
