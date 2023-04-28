@@ -9,7 +9,7 @@
 
 # clique em [Meu portfólio](https://portfolio-cuervo.vercel.app/)
 
-# Meu Linkedin - [clique aqui]('https://www.linkedin.com/in/rodrigocvigil/')
+# Meu Linkedin [clique aqui]('https://www.linkedin.com/in/rodrigocvigil/')
 
 ## Olá, sou **Rodrigo Cuervo**, seja muito bem vindo(a) ao meu GitHub
 
@@ -29,7 +29,7 @@
 <br
 />
 
-### Sou Desenvolvedor FullStack! Trabalho atualmente na Muucert Certificação Biométrica Ltda. Estes são alguns de meus particulares [_projetos_]("https://github.com/RCVigil?tab=repositories")
+### Sou Desenvolvedor FullStack! Trabalho atualmente na Muucert Certificação Biométrica Ltda. Estes são alguns de meus [_projetos particulares_]("https://github.com/RCVigil?tab=repositories")
 
 <br
 />
