@@ -1,12 +1,14 @@
+<link rel="stylesheet" type="text/css" href="styles.css">
+
 <br/>
 
-<div display:"flex" flex-direction: row justify-content:space-around>
+<div class='divHeaderMD'>
 
 # clique em [Meu portfólio](https://portfolio-cuervo.vercel.app/)
 
 # Meu Linkedin - <a style = "align:right font-size:6rem" href="https://www.linkedin.com/in/rodrigocvigil/" target="_blank">clique aqui </a>
 
-### Olá, sou <strong>Rodrigo Cuervo</strong>, seja muito bem vindo(a) ao meu GitHub.
+### Olá, sou <span>Rodrigo Cuervo</span>, seja muito bem vindo(a) ao meu GitHub
 
 </div>
 <br/>
@@ -80,45 +82,44 @@
     </tbody>
 </table>
 
-  
-  ##
+##
   
   <br/>
- 
+
  <div width="520px" align="center">
- 
+
   <h3>Algumas tecnologias utilizadas em projetos:</h3>
   
   <br/>
   
-  <img src= "https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /> 
-  <img src= "https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /> 
-  <img src= "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> 
-  <img src= "https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /> 
+  <img src= "https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src= "https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src= "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src= "https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
   <img src= "https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
   <img src= "https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" />
   <img src= "https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white" />
-  <img src= "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> 
+  <img src= "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src= "https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
   
  </div>
- 
- ##
- 
+
+##
+
  <br/>
- 
-<div align="center"> 
- 	<a href = "mailto:rodrigo_vigil@yahoo.com.br">
+
+<div align="center">
+  <a href = "mailto:rodrigo_vigil@yahoo.com.br">
       <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   <a href="https://www.linkedin.com/in/rodrigocvigil/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
+  </a>
  <a href = "https://discord.com/channels/Rodrigo Cuervo#4004" target="_blank">
-  <img src= "https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"> 
+  <img src= "https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
  </a>
  <a href = "https://twitter.com/RodrigoCvigil" target="_blank">
-  <img src= "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"> 
+  <img src= "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
  </a>
 </div>
 
