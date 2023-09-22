@@ -29,7 +29,7 @@
 <br
 />
 
-### Sou Desenvolvedor FullStack! Trabalho atualmente na Muucert Certificação Biométrica Ltda. Estes são alguns de meus [_projetos particulares_](https://github.com/RCVigil?tab=repositories)
+### Sou Desenvolvedor FullStack! Trabalho atualmente como Freelancer. Estes são alguns de meus [_projetos particulares_](https://github.com/RCVigil?tab=repositories)
 
 <br
 />
