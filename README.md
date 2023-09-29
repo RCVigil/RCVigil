@@ -9,9 +9,9 @@
 
 <h1 style="display: flex; justify-content: center; text-align: center">Olá, sou <strong>Rodrigo Cuervo</strong>, seja muito bem vindo(a) ao meu GitHub</h1>
 
-<h2>Clique em <a href="https://portfolio-cuervo.vercel.app/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; text-transform: capitalize;">Meu portfólio</a></h2>
+<h2>Clique em <a href="https://portfolio-cuervo.vercel.app/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; text-transform: capitalize; border: none;">Meu portfólio</a></h2>
 
-<h2>Clique em <a href="https://www.linkedin.com/in/rodrigocvigil/" target="_blank" style="text-decoration: none; text-transform: capitalize;"> Meu Linkedin</a></h2>
+<h2>Clique em <a href="https://www.linkedin.com/in/rodrigocvigil/" target="_blank" style="text-decoration: none; text-transform: capitalize; border: 1px solid transparent;"> Meu Linkedin</a></h2>
 
 </div>
 <br
