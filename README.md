@@ -9,15 +9,15 @@
 
 <h1 style="display: flex; justify-content: center; text-align: center">Olá, sou <strong>Rodrigo Cuervo</strong>, seja muito bem vindo(a) ao meu GitHub</h1>
 
-<h2>Clique em <a href="https://portfolio-cuervo.vercel.app/" target="_blank" rel="noopener noreferrer" style="textDecoration: none; text-transform: capitalize;">Meu portfólio</a></h2>
+<h2>Clique em <a href="https://portfolio-cuervo.vercel.app/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; text-transform: capitalize;">Meu portfólio</a></h2>
 
-<h2>Clique em <a href="https://www.linkedin.com/in/rodrigocvigil/" target="_blank" style="textDecoration: none; text-transform: capitalize;"> Meu Linkedin</a></h2>
+<h2>Clique em <a href="https://www.linkedin.com/in/rodrigocvigil/" target="_blank" style="text-decoration: none; text-transform: capitalize;"> Meu Linkedin</a></h2>
 
 </div>
 <br
 />
 
-<div style= "display: flex; align-itens: center; justify-content: center"
+<div style= "display: flex; justify-content: center; align-items: center;"
 >
 
   <img src= "https://github-profile-trophy.vercel.app/?username=RCVigil"
