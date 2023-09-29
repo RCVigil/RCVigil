@@ -7,7 +7,7 @@
 <div class='divHeaderMD' style="display: flex; flex-direction: column; justify-content: space-around;"
 >
 
-# clique em [Meu portfólio](https://portfolio1-2o9l1623z-rcvigil.vercel.app/?vercelToolbarCode=mfPtuKYAI4lJfLL)
+# clique em <a href="https://portfolio-cuervo.vercel.app/" target="_blank" rel="noopener noreferrer" style="textDecoration: none">Meu portfólio</a>
 
 # Meu Linkedin [clique aqui](https://www.linkedin.com/in/rodrigocvigil/)
 
