@@ -4,20 +4,20 @@
 <br
 />
 
-<div class='divHeaderMD' style="display: flex; flex-direction: column; justify-content: space-around;"
+<div class='divHeaderMD' style="display: flex; flex-direction: column; justify-content: center; align-items: center;"
 >
 
-# clique em <a href="https://portfolio-cuervo.vercel.app/" target="_blank" rel="noopener noreferrer" style="textDecoration: none">Meu portfólio</a>
+<h1 style="display: flex; justify-content: center; text-align: center"> Olá, sou <strong>Rodrigo Cuervo</strong>, seja muito bem vindo(a) ao meu GitHub</h1>
+
+<h2> clique em <a href="https://portfolio-cuervo.vercel.app/" target="_blank" rel="noopener noreferrer" style="textDecoration: none">Meu portfólio</a></h2>
 
 # Meu Linkedin [clique aqui](https://www.linkedin.com/in/rodrigocvigil/)
-
-## Olá, sou **Rodrigo Cuervo**, seja muito bem vindo(a) ao meu GitHub
 
 </div>
 <br
 />
 
-<div display= "flex" align="center" justify-content= "space-around"
+<div style= "display: flex; align-itens: center; justify-content: center"
 >
 
   <img src= "https://github-profile-trophy.vercel.app/?username=RCVigil"
